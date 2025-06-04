@@ -8,7 +8,7 @@ Wearing their uniforms
 
 Not wearing their uniforms
 
-We requested our friends and classmates to share their pictures to build a diverse and representative dataset.
+We requested our friends and classmates to share their pictures to build a dataset.
 
 🏷️ Step 2: Annotation
 To prepare the dataset for training, we used:
